@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yvan</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Salut 👋! Moi c'est Yvan</h1>
+<h3 align="center">Developper FullStack</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
