@@ -70,8 +70,14 @@
 
 <h3 align="center">OS</h3>
 <p align="center">
-    <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+    <a href="https://www.microsoft.com/fr-fr/windows?r=1" target="_blank"> <img
+            src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png" alt="windows"
+            width="40" height="40" /> </a>
+    <a href="https://www.ubuntu-fr.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu"
+            width="40" height="40" /> </a>
+    <a href="https://www.debian.org/index.fr.html" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="debian"
             width="40" height="40" /> </a>
 </p>
 
