@@ -1,6 +1,12 @@
 <h1 align="center">Salut 👋! Moi c'est Yvan</h1>
 <h3 align="center">Developper Web FullStack</h3>
 
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehelh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <h3 align="center">Front</h3>
 <p align="center">
